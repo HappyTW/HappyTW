@@ -13,4 +13,6 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="35"/> About Me:
+### :man_technologist: About Me:
+
+- A new coder 
