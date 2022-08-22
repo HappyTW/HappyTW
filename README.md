@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="700"/>
   <div id="badge">
     <a href="https://www.hellotaiwan.ml">
       <img src="https://img.shields.io/badge/Official_Site-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white"/>
