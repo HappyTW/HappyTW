@@ -13,4 +13,4 @@
 
 ---
 
-### <img src="https://giphy.com/stickers/GDevs-sticker-community-google-HwBlFQZFcAoUcPHZdX"> About Me:
+### <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif"> About Me:
