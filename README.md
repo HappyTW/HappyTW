@@ -15,4 +15,4 @@
 
 ### :man_technologist: About Me:
 
-- A new coder 
+- A new coder from Taiwan.
