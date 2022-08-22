@@ -13,4 +13,4 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif"> About Me:
+### <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="15"/> About Me:
