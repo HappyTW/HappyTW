@@ -4,6 +4,9 @@
     <a href="https://www.hellotaiwan.ml">
       <img src="https://img.shields.io/badge/guild_site-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
+    <a href="https://www.yaoyaoyao.ml">
+      <img src="https://img.shields.io/badge/personal_page-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
   </div>
   <h1>
     Hey There
